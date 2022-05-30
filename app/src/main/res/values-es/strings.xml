@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">tuko</string>
+    <string name="app_developer_txt">Desarrollado por</string>
+    <string name="app_developer">Dotware</string>
+    <string name="welcome_txt">Bienvenido</string>
+    <string name="login_txt">Iniciar sesión</string>
+    <string name="register_txt">Registrarse</string>
+    <string name="password_hnt" >Contraseña</string>
+    <string name="email_hnt" >Correo</string>
+    <string name="username_hnt">Username</string>
+    <string name="appointment_txt">Programar una cita</string>
+<!--    Menu items-->
+    <string name="menu_home">Inicio</string>
+    <string name="menu_apptmts">Citas</string>
+    <string name="menu_contact">Contacto</string>
+    <!-- Texts utils -->
+    <string name="txt_utls_no_internet">Sin conexión a internet</string>
+    <string name="txt_utls_new">Nuevo</string>
+    <string name="txt_utls_bydate">Por fecha</string>
+</resources>

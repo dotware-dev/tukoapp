@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeMenuItem"
+        android:icon="@drawable/ic_outline_home_24"
+        android:title="@string/menu_home" />
+    <item
+        android:id="@+id/apptmtsMenuItem"
+        android:icon="@drawable/ic_baseline_calendar_today_25"
+        android:title="@string/menu_apptmts" />
+    <item
+        android:id="@+id/contactMenuItem"
+        android:icon="@drawable/ic_baseline_headset_mic_24"
+        android:title="@string/menu_contact" />
+</menu>
