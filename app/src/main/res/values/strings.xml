@@ -9,6 +9,8 @@
     <string name="username_hnt">Username</string>
     <string name="email_hnt">Email</string>
     <string name="appointment_txt">Set up an appointment</string>
+    <string name="edit_txt">Edit</string>
+    <string name="apptmt_text">Appointment</string>
     <!--    Menu items-->
     <string name="menu_home">Home</string>
     <string name="menu_apptmts">Appointments</string>

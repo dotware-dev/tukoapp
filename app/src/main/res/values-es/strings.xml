@@ -9,6 +9,8 @@
     <string name="email_hnt" >Correo</string>
     <string name="username_hnt">Username</string>
     <string name="appointment_txt">Programar una cita</string>
+    <string name="edit_txt">Editar</string>
+    <string name="apptmt_text">Cita</string>
 <!--    Menu items-->
     <string name="menu_home">Inicio</string>
     <string name="menu_apptmts">Citas</string>
