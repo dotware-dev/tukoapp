@@ -8,6 +8,7 @@ import android.widget.TextView
 
 class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
+
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash)
         val dotwareTxt = findViewById<TextView>(R.id.dotware_txt)

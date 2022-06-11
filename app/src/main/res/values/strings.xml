@@ -6,11 +6,17 @@
     <string name="login_txt">Login</string>
     <string name="register_txt">Register</string>
     <string name="password_hnt">Password</string>
-    <string name="username_hnt">Username</string>
+    <string name="username_hnt">Name</string>
+    <string name="description_hnt">Description</string>
     <string name="email_hnt">Email</string>
     <string name="appointment_txt">Set up an appointment</string>
     <string name="edit_txt">Edit</string>
     <string name="apptmt_text">Appointment</string>
+    <string name="logout_txt">Logout</string>
+    <string name="device_hint">Device name</string>
+    <string name="issue_hint">Device issue</string>
+    <string name="date_hint">Appointment date: dd-MM-yyyy</string>
+    <string name="hour_hint">Appointment time: hh:mm</string>
     <!--    Menu items-->
     <string name="menu_home">Home</string>
     <string name="menu_apptmts">Appointments</string>
@@ -19,6 +25,16 @@
     <string name="txt_utls_no_internet">No internet connection</string>
     <string name="txt_utls_new">New</string>
     <string name="txt_utls_bydate">By date</string>
+    <string name="txt_utls_close">Close</string>
+    <string name="txt_utls_back">Back</string>
+    <string name="txt_utls_date">Date: </string>
+    <string name="txt_utls_code">Code: </string>
+    <string name="txt_utls_status">Status: </string>
+    <string name="txt_utls_devicename">Device: </string>
+    <string name="txt_utls_issue">Issue: </string>
+    <string name="txt_utls_latest">Latest: </string>
+    <string name="txt_utls_finished">Finished: </string>
+    <string name="txt_utls_send">Send</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
 </resources>

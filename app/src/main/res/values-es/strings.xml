@@ -7,10 +7,20 @@
     <string name="register_txt">Registrarse</string>
     <string name="password_hnt" >Contraseña</string>
     <string name="email_hnt" >Correo</string>
-    <string name="username_hnt">Username</string>
+    <string name="username_hnt">Nombre</string>
+    <string name="description_hnt">Descripción</string>
     <string name="appointment_txt">Programar una cita</string>
     <string name="edit_txt">Editar</string>
     <string name="apptmt_text">Cita</string>
+    <string name="logout_txt">Cerrar sesión</string>
+    <string name="device_hint">Nombre del dispositivo</string>
+    <string name="issue_hint">Problema con el dispositivo</string>
+    <string name="date_hint">Fecha de la cita: dd-MM-yyyy</string>
+    <string name="hour_hint">Hora de la cita: hh:mm</string>
+    <string name="txt_utls_date">Fecha: </string>
+    <string name="txt_utls_latest">Más reciente: </string>
+    <string name="txt_utls_finished">Terminados: </string>
+    <string name="txt_utls_send">Send</string>
 <!--    Menu items-->
     <string name="menu_home">Inicio</string>
     <string name="menu_apptmts">Citas</string>
@@ -19,4 +29,10 @@
     <string name="txt_utls_no_internet">Sin conexión a internet</string>
     <string name="txt_utls_new">Nuevo</string>
     <string name="txt_utls_bydate">Por fecha</string>
+    <string name="txt_utls_close">Close</string>
+    <string name="txt_utls_back">Back</string>
+    <string name="txt_utls_code">Código: </string>
+    <string name="txt_utls_status">Estado: </string>
+    <string name="txt_utls_devicename">Dispositivo: </string>
+    <string name="txt_utls_issue">Problema: </string>
 </resources>

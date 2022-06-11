@@ -9,6 +9,87 @@
     tools:context=".ProfileEditActivity">
 
     <Button
+        android:id="@+id/button2"
+        android:layout_width="0dp"
+        android:layout_height="53dp"
+        android:background="@drawable/btn_drawable_one"
+        android:text="@string/edit_txt"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/editTextTextPersonDescription"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/editTextTextPersonDescription"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.864" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="0dp"
+        android:layout_height="53dp"
+        android:background="@drawable/btn_drawable_one"
+        android:text="@string/logout_txt"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/editTextTextPersonDescription"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/editTextTextPersonDescription"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
+
+    <EditText
+        android:id="@+id/editTextTextEmailAddress5"
+        android:layout_width="335dp"
+        android:layout_height="53dp"
+        android:background="@drawable/btn_drawable_two"
+        android:drawableLeft="@drawable/ic_baseline_email_24"
+        android:ems="10"
+        android:hint="@string/email_hnt"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.544" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName3"
+        android:layout_width="335dp"
+        android:layout_height="53dp"
+        android:background="@drawable/btn_drawable_two"
+        android:drawableLeft="@drawable/ic_baseline_person_24"
+        android:ems="10"
+        android:hint="@string/username_hnt"
+        android:inputType="textPersonName"
+        android:paddingLeft="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.398" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonDescription"
+        android:layout_width="335dp"
+        android:layout_height="53dp"
+        android:background="@drawable/btn_drawable_two"
+        android:drawableLeft="@drawable/ic_baseline_description_25"
+        android:ems="10"
+        android:hint="@string/description_hnt"
+        android:inputType="textPersonName"
+        android:paddingLeft="10dp"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.684" />
+
+    <Button
         android:id="@+id/back_btn2"
         android:layout_width="82dp"
         android:layout_height="41dp"
@@ -38,20 +119,20 @@
         app:layout_constraintVertical_bias="0.145"
         app:srcCompat="@drawable/ic_perfildefaulttuko" />
 
-    <Button
-        android:id="@+id/chng_profile_pic"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="240dp"
-        android:backgroundTint="#00FFFFFF"
-        android:stateListAnimator="@null"
-        android:text="Change profile photo"
-        android:textColor="@color/Egyptianblue"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
+<!--    <Button-->
+<!--        android:id="@+id/chng_profile_pic"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="240dp"-->
+<!--        android:backgroundTint="#00FFFFFF"-->
+<!--        android:stateListAnimator="@null"-->
+<!--        android:text="Change profile photo"-->
+<!--        android:textColor="@color/Egyptianblue"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="0.0" />-->
 
     <TextView
         android:id="@+id/textView2"
@@ -67,4 +148,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.04" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

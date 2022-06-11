@@ -49,7 +49,7 @@
         app:layout_constraintVertical_bias="0.124" />
 
     <ScrollView
-        android:id="@+id/scrollView2"
+        android:id="@+id/scrollViewLatest"
         android:layout_width="364dp"
         android:layout_height="191dp"
         app:layout_constraintBottom_toBottomOf="@+id/divider2"
@@ -75,9 +75,9 @@
         android:text="@string/txt_utls_bydate"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/scrollView2"
+        app:layout_constraintEnd_toEndOf="@+id/scrollViewLatest"
         app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="@+id/scrollView2"
+        app:layout_constraintStart_toStartOf="@+id/scrollViewLatest"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.105" />
 

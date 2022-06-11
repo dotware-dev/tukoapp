@@ -11,6 +11,11 @@ class WelcomeActivity : AppCompatActivity() {
         setContentView(R.layout.activity_welcome)
         val loginBtn=findViewById<Button>(R.id.welcomeLoginBtn)
         loginBtn.setOnClickListener {
+            if(SessionManager.isLoggedIn()){
+                val intent = Intent(this, MainActivity::class.java)
+                startActivity(intent)
+                finish()
+            }
             val intent = Intent(this, LoginActivity::class.java)
             startActivity(intent)
         }

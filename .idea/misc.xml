@@ -7,9 +7,18 @@
         <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.119" />
         <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/drawable/btn_drawable_one.xml" value="0.1" />
         <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/drawable/btn_drawable_three.xml" value="0.1" />
+        <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/drawable/ic_baseline_access_time_filled_24.xml" value="0.1" />
+        <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.1" />
+        <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/drawable/ic_baseline_calendar_today_25.xml" value="0.1" />
+        <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/drawable/ic_baseline_description_24.xml" value="0.1" />
+        <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/drawable/ic_baseline_description_25.xml" value="0.1" />
+        <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1" />
+        <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/drawable/ic_baseline_phonelink_erase_24.xml" value="0.1" />
+        <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/drawable/ic_baseline_smartphone_24.xml" value="0.1" />
         <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/drawable/ic_logotuko.xml" value="0.119" />
         <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/drawable/rounded_corner.xml" value="0.124" />
         <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/font/roboto.xml" value="0.4" />
+        <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/layout/activity_appointment.xml" value="0.2" />
         <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
         <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/layout/activity_new_apptmt.xml" value="0.2" />
@@ -20,7 +29,7 @@
         <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/layout/activity_welcome.xml" value="0.2" />
         <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/layout/fragment_client_appointments.xml" value="0.25" />
         <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/layout/fragment_client_contact.xml" value="0.1695501730103806" />
-        <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/layout/fragment_client_home.xml" value="0.1" />
+        <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/layout/fragment_client_home.xml" value="0.2" />
         <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/layout/fragment_client_profile.xml" value="0.11302083333333333" />
         <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/layout/fragment_client_status.xml" value="0.1" />
         <entry key="..\:/TheTukoProject/Tuko/app/src/main/res/layout/sample_apptmt_element.xml" value="0.22826086956521738" />
